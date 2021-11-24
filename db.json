@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 88980304,
+      "title": "Unbranded Soft Bacon",
+      "image": "http://lorempixel.com/640/480/technics",
+      "price": 475
+    },
+    {
+      "id": 61076638,
+      "title": "Licensed Wooden Salad",
+      "image": "http://lorempixel.com/640/480/technics",
+      "price": 975
+    },
+    {
+      "id": 33949396,
+      "title": "Handmade Granite Ball",
+      "image": "http://lorempixel.com/640/480/technics",
+      "price": 556
+    },
+    {
+      "id": 6192290,
+      "title": "Refined Fresh Cheese",
+      "image": "http://lorempixel.com/640/480/technics",
+      "price": 792
+    },
+    {
+      "id": 64395328,
+      "title": "Gorgeous Fresh Chicken",
+      "image": "http://lorempixel.com/640/480/technics",
+      "price": 930
+    },
+    {
+      "id": 39332884,
+      "title": "Gorgeous Metal Chair",
+      "image": "http://lorempixel.com/640/480/technics",
+      "price": 181
+    },
+    {
+      "id": 79390449,
+      "title": "Unbranded Soft Car",
+      "image": "http://lorempixel.com/640/480/technics",
+      "price": 681
+    },
+    {
+      "id": 94669950,
+      "title": "Rustic Soft Computer",
+      "image": "http://lorempixel.com/640/480/technics",
+      "price": 203
+    }
+  ]
+}
